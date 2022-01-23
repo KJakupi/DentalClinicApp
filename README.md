@@ -1,5 +1,5 @@
 # DentalClinicApp
-Dental Clinic Spring Boot Project 
+##Dental Clinic Spring Boot Project 
 #Abstract
 With this project we think that we will achieve a proper goal, to facilitate the work of dentists in recording the examinations of their patients.
 #Technologies used
